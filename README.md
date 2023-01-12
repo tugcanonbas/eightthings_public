@@ -8,7 +8,7 @@ A Simple ToDo App 📱 that leads my career in to the development
 - HTTP Request.
   <br />
 
-Made with ❤️ by _[Tuğcan ÖNBAŞ](https://github.com/tugcanonbas)_.
+Made with ❤️ by _[Tuğcan ÖNBAŞ](https://github.com/tugcanonbas)_ and _[Tutku ÇEVİK ÖNBAŞ](https://github.com/tutkucevik)_.
 
 <br />
 
